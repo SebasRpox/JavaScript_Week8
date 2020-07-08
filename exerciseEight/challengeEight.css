@@ -1,0 +1,21 @@
+.btn-1{
+    padding: 12px;
+    border: 2px solid red;
+    color: black;
+    background-color: greenyellow;
+}
+.btn-2{
+    padding: 12px;
+    border: 2px solid red;
+    color: black;
+    background-color: greenyellow;
+}
+.btn-3{
+    padding: 12px;
+    border: 2px solid red;
+    color: black;
+    background-color: greenyellow;
+}
+.Disable{
+    opacity: 20%;
+}
